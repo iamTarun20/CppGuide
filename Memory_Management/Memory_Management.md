@@ -16,3 +16,9 @@ Allocates when we use "NEW" keyword, also called dynamic memory allocation
 allocation runtime per hota he , 
 we can allocate large pool of memory
 but it is manueal so we need to deallocate also by using DELETE keyword.
+
+
+Pointers And Reference 
+
+pointers point to address, pinters can be setted as NULL
+reference picks the same variable and refactor that , refernce can only be assigned once to the value , 

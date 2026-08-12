@@ -21,4 +21,11 @@ but it is manueal so we need to deallocate also by using DELETE keyword.
 Pointers And Reference 
 
 pointers point to address, pinters can be setted as NULL
-reference picks the same variable and refactor that , refernce can only be assigned once to the value , 
+reference picks the same variable and refactor that , refernce can only be assigned once to the value ,
+
+
+
+DYNAMIC MEMORY ALLOCATION:-
+dynamic memory allocation is essential for allocating memroy at run-time 
+in simple:-
+memeory which is being allocated by "NEW" should be freed by "DELETE"

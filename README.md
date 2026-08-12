@@ -1,0 +1,1 @@
+Well, This is just a go to guide , made for personal reasons just to have a flavour of the CPP concepts from the core.

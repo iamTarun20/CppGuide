@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(CPPguide
         Memory_Management/StackAndHeap.cpp)
 add_executable(CPPuide Memory_Management/PointerAndReference.cpp)
-add_executable(cp Memory_Management/DynamicAllocation.cpp)
+add_executable(cp Memory_Management/DynamicAllocation.cpp
+        Memory_Management/Disk_Management.h)

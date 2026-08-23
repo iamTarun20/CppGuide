@@ -13,4 +13,7 @@ add_executable(cp Memory_Management/DynamicAllocation.cpp
 )
 add_executable(raii_demo
         Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/RAII.cpp
+
 )
+add_executable(move_demo
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/MoveSemantics.cpp)

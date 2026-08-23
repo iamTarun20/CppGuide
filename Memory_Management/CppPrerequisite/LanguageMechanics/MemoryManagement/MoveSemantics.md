@@ -1,0 +1,3 @@
+Move semantics is a modern practice introduced in cpp 11 onwards it is use to move the pointer's/task's/class's ownership to the worker thread from the dispatcher thread without copying it from one to another , 
+
+so basically if there is a JOB and dispathcer thread holds the job , primarily to be said if there is a queue containing job and each job is picked out to be performed so instead of copying it to one thread and just then performing task, whihc is a slow procedure , we would just give the ownership of that job to worker thread which would execute those tasks as the ownership transfer time is O(1) and at hardware level no extra space is consumed.

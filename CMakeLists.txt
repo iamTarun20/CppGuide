@@ -9,4 +9,8 @@ add_executable(CPPuide Memory_Management/PointerAndReference.cpp)
 add_executable(cp Memory_Management/DynamicAllocation.cpp
         Memory_Management/headers/Disk_Management.h
         Memory_Management/headers/cache_manager.h
-        Memory_Management/cache_manager.cpp)
+
+)
+add_executable(raii_demo
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/RAII.cpp
+)

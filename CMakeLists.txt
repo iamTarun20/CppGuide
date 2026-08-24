@@ -16,4 +16,8 @@ add_executable(raii_demo
 
 )
 add_executable(move_demo
-        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/MoveSemantics.cpp)
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/MoveSemantics.cpp
+        )
+add_executable(chrono
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/chrono.cpp
+)

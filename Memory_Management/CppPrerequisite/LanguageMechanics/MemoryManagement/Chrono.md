@@ -1,0 +1,1 @@
+chrono is a library in CPP which takes steady clock that is , it takes the cpu tik tik cycle and measure time accoridingly from when the system was booted and doesn't rely on internet time for as that time can easily be manipulated .

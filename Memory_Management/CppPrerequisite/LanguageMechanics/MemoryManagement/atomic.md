@@ -1,0 +1,1 @@
+atomic is simple as locking system for a nanosecond and releasing that , atomic works on that principle.

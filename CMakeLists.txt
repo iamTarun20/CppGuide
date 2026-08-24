@@ -20,4 +20,7 @@ add_executable(move_demo
         )
 add_executable(chrono
         Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/chrono.cpp
+
 )
+add_executable(atomic
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/atomic.cpp)

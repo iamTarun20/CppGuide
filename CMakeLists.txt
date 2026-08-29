@@ -23,4 +23,5 @@ add_executable(chrono
 
 )
 add_executable(atomic
-        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/atomic.cpp)
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/atomic.cpp
+        Memory_Management/CppPrerequisite/LanguageMechanics/MemoryManagement/DiskManager/disk_manager.h)
